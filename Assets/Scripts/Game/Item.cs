@@ -22,5 +22,5 @@ public class Item : MonoBehaviour
         GameEvents.OnItemCollected?.Invoke(index);
 
         Destroy(gameObject);
-}
+    }
 }

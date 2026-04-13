@@ -5,7 +5,7 @@ public class GameFlowManager : MonoBehaviour
 {
     public static GameFlowManager Instance;
 
-    private bool result;
+    public bool result;
 
     void Awake()
     {
