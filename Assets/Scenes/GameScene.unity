@@ -33986,7 +33986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
   maxO2: 100
   currentO2: 0
-  o2DrainRate: 0.8
+  o2DrainRate: 1.5
   o2RegenRate: 5
 --- !u!114 &1051503862
 MonoBehaviour:
@@ -34047,7 +34047,7 @@ GameObject:
   - component: {fileID: 1064192922}
   - component: {fileID: 1064192926}
   - component: {fileID: 1064192927}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
