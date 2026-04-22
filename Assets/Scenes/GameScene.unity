@@ -33986,7 +33986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
   maxO2: 100
   currentO2: 0
-  o2DrainRate: 1.5
+  o2DrainRate: 1
   o2RegenRate: 5
 --- !u!114 &1051503862
 MonoBehaviour:
